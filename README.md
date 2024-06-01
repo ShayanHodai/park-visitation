@@ -68,7 +68,9 @@ number of visitors VS most positive correlated feature and most negative correla
 ![Example Image](images/biggest_corr.png)
 
  **FINDINGS!**
+ 
 People visit the park a lot more on sunny days! 
+
 And people are reluctant to go for a walk when it's windy, rainy, and snowy.
 
 ## Model Training
@@ -97,7 +99,9 @@ Prediction for the other days:
 ![Example Image](images/prediction.png)
 
  **FINDINGS!**
+ 
 The 11th of May, a perfect spring day with lots of sunshine, brings people to enjoy walking, playing, laughing, and spending time with puppies
+
 08th of January, it's cold! 
 
 ## Contributing
