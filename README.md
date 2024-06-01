@@ -1,6 +1,3 @@
-1. clone the repository, git clone https://github.com/ShayanHodai/park-visitation.git
-2. run ./env.sh # It creates a virtual environment, installs required packages and runs the notebook. for ubuntu 20.04
-
 # Park Visits Prediction Using Linear Regression
 
 ## Description
