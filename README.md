@@ -61,7 +61,7 @@ Given the high dimensionality of the dataset with 167 features, feature selectio
 - Correlation Analysis: Identifying and removing highly correlated features to reduce multicollinearity.
 ![Example Image](images/non_redundant_corr.png)
 
-number of visitors VS most positive correlated feature and most negative correlated feature
+- number of visitors VS most positive correlated feature and most negative correlated feature
 ![Example Image](images/biggest_corr.png)
 
  **FINDINGS!**
