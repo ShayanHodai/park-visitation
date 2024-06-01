@@ -97,7 +97,11 @@ Prediction for the other days:
 
  **FINDINGS!**
  
+on 2022-05-11, park will have a maximum visit of 7160.44 
+
 The 11th of May, a perfect spring day with lots of sunshine, brings people to enjoy walking, playing, laughing, and spending time with puppies
+
+on 2023-01-08, park will have a minimum visit of 1887.7
 
 08th of January, it's cold! 
 
